@@ -1,6 +1,4 @@
-howdy = "i am howdy"
 function add(a, b){
-  console.log(howdy)
   return (a + b)
 }
 
